@@ -4,6 +4,7 @@ Python pirate text-based adventure game
 Piratopolis was created for a challenge as part of a university course and is currently in Beta.
 
 ---- DEPENDENCIES ----
+
 Python 2.7.18
 arcpy
 time
@@ -63,5 +64,6 @@ You will choose between 3 pirate characters with different start levels of rum,
 rum capacity, and rum collection from stockpiles.
 
 ---- ACKNOWLEDGEMENTS ----
+
 This game would be significantly less fun without my fun-tester Daryl D'Cruz
 Pirate jokes are taken from boredpanda.com and kidadl.com
