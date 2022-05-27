@@ -32,8 +32,9 @@ These are:
   - flag
   - gold
 
-If your map PDF fails to update properly please open Piratopolis.mxd in ArcMAP and ensure the path to each
-of the layers is correct
+IMPORTANT!
+Prior to playing for the first time, please open Piratopolis.mxd and ensure the paths
+to the shape files moves, points, and reference are correct.
 
 ---- GAME DESCRITPION ----
 
