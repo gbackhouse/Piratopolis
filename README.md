@@ -6,10 +6,15 @@ Piratopolis was created for a challenge as part of a university course and is cu
 ---- DEPENDENCIES ----
 
 Python 2.7.18
+
 arcpy
+
 time
+
 os
+
 numpy
+
 random
 
 Please note that this game requires ArcGIS
