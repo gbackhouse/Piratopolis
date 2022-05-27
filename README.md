@@ -71,5 +71,6 @@ rum capacity, and rum collection from stockpiles.
 
 ---- ACKNOWLEDGEMENTS ----
 
-This game would be significantly less fun without my fun-tester Daryl D'Cruz
+This game would be significantly less fun without my fun-tester Daryl D'Cruz.
+
 Pirate jokes are taken from boredpanda.com and kidadl.com
