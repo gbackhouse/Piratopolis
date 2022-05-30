@@ -381,7 +381,7 @@ class Pirate():
         self.MapUpdate("Points",0, "all")
 
 
-        # Print map at start showing only start location
+        # Print map at end showing all cells and path taken
         mxd = arcpy.mapping.MapDocument("Piratopolis.mxd")
         arcpy.mapping.ExportToPDF(mxd, "mapFinal.PDF")
         os.startfile("mapFinal.PDF")
